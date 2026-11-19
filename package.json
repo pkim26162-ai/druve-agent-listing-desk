@@ -1,0 +1,12 @@
+{
+  "name": "druve-agent-listing-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/core.test.mjs test/flow.test.mjs"
+  },
+  "dependencies": {
+    "@druve/cli": "*"
+  }
+}
